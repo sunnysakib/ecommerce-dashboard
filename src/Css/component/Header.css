@@ -1,0 +1,17 @@
+.header-banner-big{
+    background-image: url('../../assets/image/Bannar-Big.svg');
+    /* background-size: cover; */
+}
+
+.header-banner-small1{
+    background-image: url('../../assets/image/Bannar-small-1.svg');
+    background-size: cover;
+}
+.header-banner-small2{
+    background-image: url('../../assets/image/Bannar-small-2.svg');
+    background-size: cover;
+}
+
+/* .header-box{
+    height: 720px;
+} */

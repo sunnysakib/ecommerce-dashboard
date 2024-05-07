@@ -1,3 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import "./Css/component/Header.css";
+@import "./Css/component/ServiceCard.css";
+@import "./Css/component/ClientReview.css";
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+      margin: 0;
+     font-family: 'Poppins', sans-serif;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      color: #1A1A1A;
+    }
+    
+    code {
+      font-family: 'Poppins', sans-serif;
+      color: #1A1A1A;
+    }
+    
